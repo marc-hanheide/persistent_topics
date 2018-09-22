@@ -2,6 +2,13 @@
 Changelog for package persistent_topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* adopted by marc
+* Merge pull request `#1 <https://github.com/marc-hanheide/persistent_topics/issues/1>`_ from MisoRobotics/release/1.0.0
+  Release/1.0.0
+* Contributors: Marc Hanheide, Ryan Sinnet
+
 1.0.0 (2018-06-13)
 ------------------
 * Fixed fix for unconstructable stored message types
