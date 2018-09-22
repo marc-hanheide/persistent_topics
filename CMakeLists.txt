@@ -18,3 +18,14 @@ catkin_install_python(
     DESTINATION
         ${CATKIN_PACKAGE_BIN_DESTINATION})
 
+install(PROGRAMS
+	nodes/single_channel_${PROJECT_NAME}_node
+	nodes/multi_channel_${PROJECT_NAME}_node
+  	DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
+
+
+foreach (dir launch)
+    install(DIRECTORY ${dir}/
+    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/${dir})
+endforeach(dir)

@@ -2,6 +2,9 @@
 Changelog for package persistent_topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.5.1 (2018-09-22)
 ------------------
 * adopted by marc
