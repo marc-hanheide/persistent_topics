@@ -2,8 +2,8 @@
 Changelog for package persistent_topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.5.1 (2018-09-22)
+------------------
 * adopted by marc
 * Merge pull request `#1 <https://github.com/marc-hanheide/persistent_topics/issues/1>`_ from MisoRobotics/release/1.0.0
   Release/1.0.0
