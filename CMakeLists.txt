@@ -17,3 +17,4 @@ catkin_install_python(
         nodes/multi_channel_${PROJECT_NAME}_node
     DESTINATION
         ${CATKIN_PACKAGE_BIN_DESTINATION})
+
